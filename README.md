@@ -7,4 +7,4 @@
 - I wonder about editing<br>
 - I wonder about websites<br>
 <br>
-<img alt="Ramon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ariasramon&hide=contribs,prs>
+<img alt="Ramon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true">
