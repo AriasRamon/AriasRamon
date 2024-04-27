@@ -6,3 +6,5 @@
 - I wonder about coding<br>
 - I wonder about editing<br>
 - I wonder about websites<br>
+<br>
+[![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariasramon)](https://github.com/ariasramon/github-readme-stats)
