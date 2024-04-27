@@ -7,7 +7,7 @@
 - I wonder about editing<br>
 - I wonder about websites<br>
 <br>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png>
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/" />
 <br>
 <img alt="Ramon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ariasramon&show_icons=true&theme=radical">
 <br>
