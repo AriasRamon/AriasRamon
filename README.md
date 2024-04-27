@@ -7,7 +7,7 @@
 - I wonder about editing<br>
 - I wonder about websites<br>
 <br>
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/file:///Users/ramonariasjr./Downloads/html5.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v11/icons/html5.svg" />
 <br>
 <img alt="Ramon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ariasramon&show_icons=true&theme=radical">
 <br>
