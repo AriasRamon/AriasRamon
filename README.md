@@ -7,7 +7,8 @@
 - I wonder about editing<br>
 - I wonder about websites<br>
 <br>
-
+- Languages
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
 <br>
 <img alt="Ramon's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ariasramon&show_icons=true&theme=radical">
 <br>
