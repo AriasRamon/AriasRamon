@@ -8,8 +8,13 @@
 - I wonder about websites<br>
 <br>
 - Languages
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-1024.png" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48.svg" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-
+code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.cdm/github/explore/80688429a7d4ef2fca182350f83517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688429a7d4ef2{ca182350fe83517d3494d/topics/css/css.png" />]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688429a7d4ef2{ca182350fe83517d3494d/topics/sass/sass.png" />]
+[<img align="left" alt="JavaScript" width="26px"
+src="https://raw.githubusercontent.com/github/explore/80688429a7d4ef2fca182350fe8e3517d3494d/topics/javascript/javascript.png" />]
 <br>
 <img alt="Ramon's GitHub stats" src="https://github-readme-stats-zotk.vercel.app/api?username=ariasramon&show_icons=true&theme=radical">
 <br>
