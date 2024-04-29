@@ -1,4 +1,4 @@
-### Hi There, I'm Ramon. Welcome to my Page:wave: 
+### Hi There, I'm Ramon. Welcome to my Page 😎
 <br>
 <hr>
 ## I wonder a lot...<br>
@@ -20,3 +20,5 @@
 <img alt="Ramon's GitHub stats" src="https://github-readme-stats-zotk.vercel.app/api?username=ariasramon&show_icons=true&theme=radical">
 <br>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariasramon&langs_count=8&theme=dark">
+<br>
+[top](#smileys--emotion) | :grinning: | `:grinning:` | :smiley: | `:smiley:` | [top](#table-of-contents) 
