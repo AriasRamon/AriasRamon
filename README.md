@@ -18,4 +18,4 @@
 <br>
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariasramon&langs_count=8&theme=dark">
 <br>
-:grinning: :potted_plant: :smiley: :crocodile: :grimacing: :dolphin: :scream: :tropical_fish: 
+ :smiley: :potted_plant: :grinning: :crocodile: :grimacing: :dolphin: :scream: :tropical_fish: 
